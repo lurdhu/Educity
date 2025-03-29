@@ -5,7 +5,7 @@ import { faEnvelope, faPhoneVolume, faLocationDot, faEnvelopeOpen,faArrowRightLo
 function ContactUs() {
     return (
         <>
-            <div className='container  mx-auto px-4'>
+            <div className='container  mx-auto px-4' id='contactus'>
                 <div className='p-10'>
                     <h3 className='uppercase text-base font-bold text-blue-800 mb-2 text-center'> Contact Us </h3>
                     <h4 className='text-3xl font-bold text-center'> Get In Touch </h4>

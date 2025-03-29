@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
     return (
         <>
-            <div className='container mx-auto px-4'>
+            <div className='container mx-auto px-4' id='aboutus'>
                 <div className='flex items-center gap-x-10 p-10 max-w-6xl mx-auto mb-8'>
                     <div>
                         <img className='max-w-full rounded-md' src="src/assets/media/about.png" alt="about" />

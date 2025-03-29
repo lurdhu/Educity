@@ -3,7 +3,7 @@ import React from 'react'
 function Programs() {
     return (
         <>
-            <div className='container mx-auto px-4'>
+            <div className='container mx-auto px-4' id="programs">
                 <div className='p-10'>
                     <h3 className=' uppercase text-base font-bold text-blue-800 mb-2 text-center'>Our Program </h3>
                     <h4 className='text-3xl font-bold text-[#000f38] text-center'> What We Offer</h4>

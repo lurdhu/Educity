@@ -8,7 +8,7 @@ function Hero() {
     return (
         <>
             <Navbar />
-            <div className="bg-[#08003acd] bg-[url('../src/assets/media/hero-wMB5D_Q0.png')] opacity-90 bg-cover bg-center bg-blend-overlay h-screen w-full flex justify-center items-center relative">
+            <div className="bg-[#08003acd] bg-[url('../src/assets/media/hero-wMB5D_Q0.png')] opacity-90 bg-cover bg-center bg-blend-overlay h-screen w-full flex justify-center items-center relative" id='hero'>
                 <div className='p-5 flex flex-col gap-y-2 max-w-4xl mx-auto text-center container'>
                     <div className='max-w-3xl mx-auto'>
                         <h2 className='text-white text-6xl font-semibold leading-tight'>We Ensure better education for a better  world

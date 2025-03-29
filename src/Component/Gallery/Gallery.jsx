@@ -5,7 +5,7 @@ import { faArrowRightLong } from '@fortawesome/free-solid-svg-icons';
 function Gallery() {
     return (
         <>
-            <div className='container mx-auto px-4'>
+            <div className='container mx-auto px-4' id='campus'>
                 <div className='p-10'>
                     <h3 className='uppercase text-base font-bold text-blue-800 mb-2 text-center'> Gallery </h3>
                     <h4 className='text-3xl font-bold text-center'>Campus Photos </h4>

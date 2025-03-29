@@ -5,7 +5,7 @@ import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 function Testimonials() {
     return (
         <>
-            <div className='container  mx-auto px-4'>
+            <div className='container  mx-auto px-4' id='testimonials'>
                 <div className='p-10'>
                     <h3 className='uppercase text-base font-bold text-blue-800 mb-2 text-center'> Testimonials </h3>
                     <h4 className='text-3xl font-bold text-center'> What Student Says </h4>
